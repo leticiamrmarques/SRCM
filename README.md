@@ -1,4 +1,4 @@
-# SRCM - Sistema de Registro Clínico Médico
+# SRCM - Sistema de Redes de Clínicas Médicas
 
 ## 📋 Descrição
 
