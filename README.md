@@ -84,7 +84,7 @@ Fornecer uma estrutura de dados robusta e normalizada para clínicas que necessi
 
 ## 📊 Diagrama ER
 
-O schema contém **27 tabelas** principais organizadas em 5 módulos funcionais, com relacionamentos 1:N e N:N adequadamente modelados através de tabelas associativas.
+O schema contém **29 tabelas** organizadas em 5 módulos funcionais, com relacionamentos 1:N e N:N adequadamente modelados através de tabelas associativas.
 
 ## 🚀 Como Usar
 
@@ -163,13 +163,13 @@ Este projeto está sob a licença MIT.
 
 ## 👨‍💻 Autor
 
-Desenvolvido como projeto acadêmico de modelagem de banco de dados para sistemas de saúde.
-•	Bruno Gonçalves Bezerra
-•	Eduardo Mendes Souza
-•	Emerson Moron Rosa
-•	Letícia Meneses Marques
-INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE BRASÍLIA, CAMPUS BRASÍLIA
-CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS
+Desenvolvido como projeto acadêmico de modelagem de banco de dados para sistemas de saúde.  
+•	Bruno Gonçalves Bezerra  
+•	Eduardo Mendes Souza  
+•	Emerson Moron Rosa  
+•	Letícia Meneses Marques  
+INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE BRASÍLIA, CAMPUS BRASÍLIA  
+CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS  
 
 ## 📧 Contato
 
