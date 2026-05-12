@@ -164,10 +164,10 @@ Este projeto está sob a licença MIT.
 ## 👨‍💻 Autor
 
 Desenvolvido como projeto acadêmico de modelagem de banco de dados para sistemas de saúde.  
-•	Eduardo Mendes Souza
-•	Danielly Reis
-•	Letícia Meneses Marques
-•	Rebeca Behrends Luz
+•	Eduardo Mendes Souza <br/>
+•	Danielly Reis<br/>
+•	Letícia Meneses Marques<br/>
+•	Rebeca Behrends Luz<br/>
 INSTITUTO FEDERAL DE EDUCAÇÃO, CIÊNCIA E TECNOLOGIA DE BRASÍLIA, CAMPUS BRASÍLIA  
 CURSO TÉCNICO EM DESENVOLVIMENTO DE SISTEMAS  
 
